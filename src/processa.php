@@ -13,7 +13,7 @@
 	 
       if (mysqli_query($conn, $sql)) {
             echo "<script>
-            alert('Usuaria cadastrado com sucesso!');
+            alert('Desenvolvedor cadastrado com sucesso!');
             window.location.href='index.php';
             </script>";
       } else {
