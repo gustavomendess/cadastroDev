@@ -10,7 +10,7 @@
     if (!$conn) {
         echo "<script>
             alert('Conexão falhou!');
-            window.location.href='index.html';
+            window.location.href='index.php';
             </script>";
     }
 ?>
